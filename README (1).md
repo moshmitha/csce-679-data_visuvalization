@@ -7,22 +7,19 @@ Live notebook: \[Open in Google colab\]
 
 This assignment presents two interactive visualizations of Hong Kong temperature data. The project was developed in Google Colab using a notebook that combines Python data preparation with HTML, CSS, JavaScript, SVG, and D3.js v7 for interactive charts.
 
-**Screenshots**
+## Screenshots
 
-**Level 1: Maximum temperature**
+### Level 1: Maximum Temperature
+![Level 1 Maximum Temperature](SCREENSHOTS/level1_max.png)
 
-![][image1]
+### Level 1: Minimum Temperature
+![Level 1 Minimum Temperature](SCREENSHOTS/level1_min.png)
 
-**Level 1: Minimum temperature, with tooltip**
+### Level 2: Maximum Temperature
+![Level 2 Maximum Temperature](SCREENSHOTS/level_2_max.png)
 
-![][image2]
-
-Level 2: Daily temperature lines
-
-![][image3]
-
-Level 2\_min:  
-![][image4]  
+### Level 2: Minimum Temperature
+![Level 2 Minimum Temperature](SCREENSHOTS/level_2_min.png) 
 **Files**
 
 \- \`HK\_Temperature\_Heatmap.ipynb\`: Google Colab/Jupyter notebook containing data preparation and both visualizations.  
