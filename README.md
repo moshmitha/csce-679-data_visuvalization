@@ -20,6 +20,7 @@ This assignment presents two interactive visualizations of Hong Kong temperature
 
 
 
+
 Files
 
 HK_Temperature_Heatmap.ipynb: Google Colab/Jupyter notebook containing data preparation and both visualizations.
