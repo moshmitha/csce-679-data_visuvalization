@@ -131,6 +131,4 @@ The notebook loads D3.js from a public CDN, so an internet connection is require
 Implementation Note
 
 The visualizations are embedded in notebook cells rather than maintained as separate JavaScript files. Python handles data preparation and passes JSON records to the HTML templates, while D3.js renders the interactive charts in the browser. Some visualization logic, including legend and axis drawing, is implemented separately for each level.
-**Implementation note**
 
-The visualizations are embedded in notebook cells rather than separated into standalone JavaScript files. Python handles data processing and passes JSON into the HTML templates, and D3.js executes in the browser to render the interactive visualizations. The legend/axis drawing and other chart logic remain defined in each level's JavaScript, so some logic is repeated between levels.  
