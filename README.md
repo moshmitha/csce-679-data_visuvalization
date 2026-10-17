@@ -6,21 +6,17 @@ Overview
 
 This assignment presents two interactive visualizations of Hong Kong temperature data. The project was developed in Google Colab using Python for data preparation and HTML, CSS, JavaScript, SVG, and D3.js v7 for interactive charts.
 
-Screenshots
+### Level 1: Maximum Temperature
+![Level 1 Maximum Temperature](SCREENSHOTS/level1_max.png)
 
-Level 1: Maximum Temperature
+### Level 1: Minimum Temperature
+![Level 1 Minimum Temperature](SCREENSHOTS/level1_min_tooltip.png)
 
+### Level 2: Maximum Temperature
+![Level 2 Maximum Temperature](SCREENSHOTS/level_2.png)
 
-
-Level 1: Minimum Temperature with Tooltip
-
-
-
-Level 2: Daily Temperature Lines — Maximum Background
-
-
-
-Level 2: Daily Temperature Lines — Minimum Background
+### Level 2: Minimum Temperature
+![Level 2 Minimum Temperature](SCREENSHOTS/level2_min.png)
 
 
 
