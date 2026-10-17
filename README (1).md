@@ -16,10 +16,12 @@ This assignment presents two interactive visualizations of Hong Kong temperature
 ![Level 1 Minimum Temperature](SCREENSHOTS/level1_min.png)
 
 ### Level 2: Maximum Temperature
-![Level 2 Maximum Temperature](SCREENSHOTS/level 2_max.png)
+
+![Level 2 Maximum Temperature](SCREENSHOTS/level_2_max.png)
 
 ### Level 2: Minimum Temperature
-![Level 2 Minimum Temperature](SCREENSHOTS/level 2_min.png) 
+
+![Level 2 Minimum Temperature](SCREENSHOTS/level_2_min.png)
 **Files**
 
 \- \`HK\_Temperature\_Heatmap.ipynb\`: Google Colab/Jupyter notebook containing data preparation and both visualizations.  
